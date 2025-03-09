@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/components/header/Header.module.css"],"sourcesContent":[".cont_main {\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n\r\n    padding: 22px 50px;\r\n    background: var(--background_1);\r\n    color: var(--nav-text-color);\r\n}\r\n\r\n.logo {\r\n    text-transform: uppercase;\r\n\r\n    font-size: 28px;\r\n    font-weight: 700;\r\n\r\n}\r\n\r\n.nav_links {\r\n    display: flex;\r\n    flex-direction: row;\r\n    gap: 20px;\r\n}\r\n\r\n.nav_links a {\r\n    font-size: 16px;\r\n    font-weight: 600;\r\n}\r\n\r\n.nav_links a:hover {\r\n    transform: scale(1.04);\r\n    background: var(--btn-gradient-background);\r\n    background-clip: text;\r\n    -webkit-text-fill-color: transparent;\r\n}\r\n\r\n\r\n.log_cont {\r\n    font-size: 16px;\r\n    font-weight: 600;\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;AAWA;;;;;;AAQA;;;;;;AAMA;;;;;AAKA;;;;;;;AAQA"}},
-    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

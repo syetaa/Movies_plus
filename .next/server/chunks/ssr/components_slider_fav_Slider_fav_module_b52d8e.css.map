@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/components/slider_fav/Slider_fav.module.css"],"sourcesContent":["\r\n.sliderItem{\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 8px;\r\n    padding: 21px 21px 13px 21px;\r\n    background: var(--card_back);\r\n    border-radius: 14px;\r\n    margin: 0 15px;\r\n    \r\n    user-select: none;\r\n}\r\n.sliderItem img{\r\n    border-radius: 10px;\r\n    \r\n}\r\n.sliderItem h4{\r\n    font-size: 15px;\r\n    font-weight: 600;\r\n    color: var(--text-color1);\r\n}\r\n\r\n.cont_main{\r\n    padding: 53px 50px;\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 25px;\r\n\r\n    background: var(--back2-color);\r\n}\r\n.text_fav{\r\n    font-size: 29px;\r\n    font-weight: 700;\r\n    color: var(--text-color1);\r\n}\r\n.movieSlider{\r\n    display: flex;\r\n    flex-direction: row;\r\n    gap: 20px;\r\n}"],"names":[],"mappings":"AACA;;;;;;;;;;;AAWA;;;;AAIA;;;;;;AAMA;;;;;;;;AAQA;;;;;;AAKA"}},
-    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

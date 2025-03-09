@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/favourites/page": "app/favourites/page.js",
-  "/subscriptions/page": "app/subscriptions/page.js",
-  "/profile/page": "app/profile/page.js"
-}
