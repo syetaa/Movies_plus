@@ -1,7 +1,7 @@
 import styles from './page.module.css'
 
 export default function page() {
-  return (
-    <div>page profile</div>
-  )
+    return (
+        <div>page profile</div>
+    )
 }

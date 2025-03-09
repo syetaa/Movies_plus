@@ -1,7 +1,7 @@
 import styles from './page.module.css'
 
 export default function page() {
-  return (
-    <div>page sub</div>
-  )
+    return (
+        <div>page sub</div>
+    )
 }

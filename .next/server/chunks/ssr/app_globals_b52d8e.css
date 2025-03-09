@@ -1,0 +1,43 @@
+/* [project]/app/globals.css [app-client] (css) */
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+:root {
+  --test_body_background: #282828;
+  --background_1: #111112;
+  --background_2: #0f0f10;
+  --card_background: #131314;
+  --text-color1: #fefefe;
+  --nav-text-color: #efefef;
+  --btn-gradient-background: linear-gradient(42deg, #ff9532 0%, #ff5a24 100%);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--test_body_background);
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+a {
+  user-select: none;
+  text-decoration: none;
+  color: unset;
+}
+
+input {
+  border: none;
+}
+
+/*# sourceMappingURL=app_globals_b52d8e.css.map*/

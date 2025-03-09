@@ -1,0 +1,43 @@
+/* [project]/components/slider_fav/Slider_fav.module.css [app-client] (css) */
+.Slider_fav-module__M8lBLq__sliderItem {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 21px 21px 13px;
+  background: var(--card_back);
+  border-radius: 14px;
+  margin: 0 15px;
+  user-select: none;
+}
+
+.Slider_fav-module__M8lBLq__sliderItem img {
+  border-radius: 10px;
+}
+
+.Slider_fav-module__M8lBLq__sliderItem h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-color1);
+}
+
+.Slider_fav-module__M8lBLq__cont_main {
+  padding: 53px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  background: var(--back2-color);
+}
+
+.Slider_fav-module__M8lBLq__text_fav {
+  font-size: 29px;
+  font-weight: 700;
+  color: var(--text-color1);
+}
+
+.Slider_fav-module__M8lBLq__movieSlider {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+/*# sourceMappingURL=components_slider_fav_Slider_fav_module_b52d8e.css.map*/
