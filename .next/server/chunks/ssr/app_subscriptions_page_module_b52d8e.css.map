@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/subscriptions/page.module.css"],"sourcesContent":["/* page.module.css */\r\n\r\n.subscriptions {\r\n    padding: 20px;\r\n    font-family: sans-serif;\r\n    background-color: #121212;\r\n    color: #fff;\r\n  }\r\n  \r\n  .subscriptions h2 {\r\n    font-size: 24px;\r\n    margin-bottom: 20px;\r\n  }\r\n  \r\n  .subscription-cards {\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n    gap: 20px;\r\n    justify-content: space-around;\r\n  }\r\n  \r\n  .card {\r\n    background-color: #242424;\r\n    border-radius: 8px;\r\n    padding: 20px;\r\n    width: 250px;\r\n    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);\r\n  }\r\n  \r\n  .card h3 {\r\n    font-size: 18px;\r\n    margin-bottom: 10px;\r\n  }\r\n  \r\n  .card p {\r\n    font-size: 14px;\r\n    margin-bottom: 8px;\r\n    color: #ccc;\r\n  }\r\n  \r\n  .card button {\r\n    background-color: #ff9900;\r\n    color: white;\r\n    border: none;\r\n    padding: 10px 15px;\r\n    border-radius: 5px;\r\n    cursor: pointer;\r\n    font-size: 14px;\r\n    transition: background-color 0.3s ease;\r\n    width: 100%;\r\n    box-sizing: border-box;\r\n  }\r\n  \r\n  .card button:hover {\r\n    background-color: #e68a00;\r\n  }  "],"names":[],"mappings":"AAEA;;;;;;;AAOE;;;;;AAKA;;;;;;;AAOA;;;;;;;;AAQA;;;;;AAKA;;;;;;AAMA;;;;;;;;;;;;;AAaA"}},
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

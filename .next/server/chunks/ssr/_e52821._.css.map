@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/mich2/dev/next/movie_test1/app/page.module.css"],"sourcesContent":[""],"names":[],"mappings":""}},
+    {"offset": {"line": 2, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/mich2/dev/next/movie_test1/components/try_free/Try_free.module.css"],"sourcesContent":[".cont_main{\r\n    background: var(--back2-color);\r\n    height: 600px;\r\n}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

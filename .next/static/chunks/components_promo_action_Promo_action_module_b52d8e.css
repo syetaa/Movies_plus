@@ -1,0 +1,27 @@
+/* [project]/components/promo_action/Promo_action.module.css [app-client] (css) */
+.Promo_action-module__dKdudG__cont_main {
+  color: var(--text-color1);
+  background: var(--background_2);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 36px;
+  padding: 55px 50px;
+}
+
+.Promo_action-module__dKdudG__promo_text {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.Promo_action-module__dKdudG__promo_btn a {
+  font-size: 17px;
+  font-weight: 700;
+  padding: 13px 20px;
+  background: var(--btn-gradient-background);
+  border-radius: 11px;
+  text-wrap: nowrap;
+}
+
+/*# sourceMappingURL=components_promo_action_Promo_action_module_b52d8e.css.map*/

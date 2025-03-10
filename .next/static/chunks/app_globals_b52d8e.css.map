@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/globals.css"],"sourcesContent":["* {\r\n    padding: 0;\r\n    margin: 0;\r\n    border: none;\r\n}\r\n\r\n:root {\r\n    --test_body_background: #111112;\r\n    --background_1: #111112;\r\n    --background_2: #0F0F10;\r\n    --card_background: #131314;\r\n\r\n    --text-color1: #fefefe;\r\n    --nav-text-color: #EFEFEF;\r\n\r\n    --btn-gradient-background: linear-gradient(42deg, rgba(255, 149, 50, 1) 0%, rgba(255, 90, 36, 1) 100%);\r\n}\r\n\r\nhtml {\r\n    height: 100%;\r\n}\r\n\r\nbody {\r\n    display: flex;\r\n    flex-direction: column;\r\n    height: 100%;\r\n    background: var(--test_body_background);\r\n}\r\n\r\nmain {\r\n    flex: 1 0 auto;\r\n}\r\n\r\na {\r\n    user-select: none;\r\n    text-decoration: none;\r\n    color: unset;\r\n}\r\n\r\ninput {\r\n    border: none;\r\n}\r\n\r\n\r\n"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;;;;;AAYA;;;;AAIA;;;;;;;AAOA;;;;AAIA;;;;;;AAMA"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
