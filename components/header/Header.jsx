@@ -9,7 +9,7 @@ export default function Header() {
             </div>
             <div className={styles.nav_links}>
                 <Link href="/">Главная</Link>
-                <Link href="/favourites">Избранное</Link>
+                <Link href="/favorites">Избранное</Link>
                 <Link href="/subscriptions">Подписки</Link>
                 <Link href="/profile">Профиль</Link>
             </div>

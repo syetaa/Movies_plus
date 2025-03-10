@@ -4,7 +4,7 @@
   "sections": [
     {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/subscriptions/page.module.css [app-client] (css module)"],"sourcesContent":["__turbopack_export_value__({\n});\n"],"names":[],"mappings":"AAAA;AACA"}},
     {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/mich2/dev/next/movie_test1/app/subscriptions/page.jsx"],"sourcesContent":["import styles from './page.module.css'\r\n\r\nexport default function page() {\r\n    return (\r\n        <div>page sub</div>\r\n    )\r\n}"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,8OAAC;kBAAI;;;;;;AAEb"}},
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/mich2/dev/next/movie_test1/app/subscriptions/page.jsx"],"sourcesContent":["import styles from './page.module.css'\r\n\r\nexport default function page() {\r\n    return (\r\n        <div>page sub </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,8OAAC;kBAAI;;;;;;AAEb"}},
     {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
     {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
     {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},

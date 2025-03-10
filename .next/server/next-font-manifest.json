@@ -3,10 +3,13 @@
     "[project]/app/page": [
       "static/media/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-s.p.d1a74dd0.woff2"
     ],
-    "[project]/app/favourites/page": [
+    "[project]/app/_not-found/page": [
       "static/media/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-s.p.d1a74dd0.woff2"
     ],
     "[project]/app/subscriptions/page": [
+      "static/media/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-s.p.d1a74dd0.woff2"
+    ],
+    "[project]/app/favorites/page": [
       "static/media/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-s.p.d1a74dd0.woff2"
     ],
     "[project]/app/profile/page": [

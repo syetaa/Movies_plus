@@ -1,13 +1,11 @@
 * {
     padding: 0;
     margin: 0;
-
-
     border: none;
 }
 
 :root {
-    --test_body_background: #282828;
+    --test_body_background: #111112;
     --background_1: #111112;
     --background_2: #0F0F10;
     --card_background: #131314;
