@@ -5,8 +5,13 @@
 (globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
   "path": "static/chunks/app_page_282951.js",
   "chunks": [
-    "static/chunks/_dec3f2._.js",
-    "static/chunks/_eb680f._.css"
+    "static/chunks/node_modules_next_dist_f73344._.js",
+    "static/chunks/node_modules_react-icons_fa_index_mjs_d2e2d7._.js",
+    "static/chunks/node_modules_react-icons_lib_74ccc9._.js",
+    "static/chunks/node_modules_axios_lib_c4c49c._.js",
+    "static/chunks/node_modules_baed3e._.js",
+    "static/chunks/_f39d80._.js",
+    "static/chunks/_daeebd._.css"
   ],
   "source": "dynamic"
 });
